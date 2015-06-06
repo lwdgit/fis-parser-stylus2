@@ -1,0 +1,21 @@
+{
+  "name": "fis-parser-stylus2",
+  "version": "1.0.0",
+  "description": "fis parser for stylus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "stylus"
+  ],
+  "dependencies": {
+    "stylus": ">=0.34.1"
+  },
+  "devDependencies": {
+    "fis": ">=1.0.1"
+  },
+  "author": "liwen",
+  "license": "IMT"
+}
