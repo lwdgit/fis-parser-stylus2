@@ -14,5 +14,13 @@
     "stylus": ">=0.34.1"
   },
   "author": "liwen",
-  "license": "IMT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwdgit/fis-parser-stylus2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lwdgit/fis-parser-stylus2/issues"
+  },
+  "homepage": "https://github.com/lwdgit/fis-parser-stylus2#readme"
 }
