@@ -1,6 +1,6 @@
 /*
  * fis
- * http://fis.baidu.com/
+ *
  */
 
 'use strict';
@@ -27,5 +27,5 @@ module.exports = function(content, file, conf){
     if (err) throw err;
     fn = css;
   });
-  return fn;
+  return fn.toString();
 };
